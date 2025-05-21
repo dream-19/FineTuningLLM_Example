@@ -2,6 +2,11 @@
 
 This repository demonstrates how to fine-tune a large language model (Qwen3) using Parameter-Efficient Fine Tuning (PEFT) techniques such as LoRA (Low-Rank Adaptation). It includes a Jupyter notebook illustrating the code, steps, and dependencies required to replicate or adapt the workflow.
 
+## Installation
+
+- Clone this repo: `git clone git@github.com:dream-19/FineTuningLLM_Example.git`
+- Upload the notebook on Google Colab to use it 
+
 ## Contents
 
 ### `FineTuning_Qwen3.ipynb`
