@@ -4,7 +4,7 @@ This repository demonstrates how to fine-tune a large language model (Qwen3) usi
 
 ## Installation
 
-- Clone this repo: `git clone git@github.com:dream-19/FineTuningLLM_Example.git`
+- Clone this repo: `git clone https://github.com/dream-19/FineTuningLLM_Example.git`
 - Upload the notebook on Google Colab to use it 
 
 ## Contents
